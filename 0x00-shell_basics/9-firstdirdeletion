@@ -1,5 +1,2 @@
 #!/bin/bash
 rm -rf /tmp/my_first_directory/
-ls -la. ../boot >> 11-lists
-ls -la . ../boot
-echo rm -rf /tmp/my_first_directory/
